@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: black;
+}
+#hero img{
+    height: 100vh;
+}
+#lugarfecha h3, #lugarfecha p{
+    color: white;
+    margin-top: 1rem;
+}
+#formulario button{
+    background-color: rgb(155, 204, 63);
+    border: none;
+}
+#btnverde{
+    color: green;
+
+}
+footer{
+    background-color: #000C4F;
+}
+footer .nav-link{
+    color: white;
+}
