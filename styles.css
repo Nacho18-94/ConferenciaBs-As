@@ -27,3 +27,34 @@ footer{
 footer .nav-link{
     color: white;
 }
+#tarjetas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 15px;
+}
+#pagos{
+    width: 62%;
+    margin-top: 30px;
+}
+.btn-10{
+    background-color: rgb(127, 206, 9);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 175px;
+    text-align: center;
+}
+#formulario2{
+    margin-top: 10px;
+}
+#tarjeta1{
+    border: 1px solid blue;
+}
+#tarjeta2{
+    border: 1px solid rgb(0, 183, 255);
+}
+#tarjeta3{
+    border: 1px solid orange;
+}
